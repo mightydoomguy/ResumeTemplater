@@ -27,6 +27,5 @@ if __name__ == '__main__':
    #print(reqs)
    for j in range(len(reqs)):
       print(reqs[j]['name'],"|\t Ссылка:", reqs[j]['alternate_url'])
-#todo форматирование текста добавь и поиск по кейвордам
-#todo Я за чаем покекав
+
 
