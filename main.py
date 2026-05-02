@@ -2,7 +2,7 @@ import requests
 import cowsay
 from pypdf import PdfWriter
 from fpdf import FPDF
-token = "aVEm8VfXkufDP6MhcUm4Evo4jZGITBpn"
+token = "your api key"
 # Замени на свой API-ключ
 API_KEY = token
 # URL API Mistral (замени на актуальный, если нужно)
